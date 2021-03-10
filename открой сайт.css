@@ -108,7 +108,7 @@ center .main ul li p {
     border-radius: 30px;
     max-width: 500px;
     min-height: 100px;
-    border-bottom: 3px solid #ff3333;
+    border: 6px solid #ff3333;
 }
 
 .card_1 {
